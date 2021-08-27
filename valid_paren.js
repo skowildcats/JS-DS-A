@@ -22,4 +22,7 @@ function isValid(s) {
   }
 }
 
+// O(n) time complexity
+// O(n) space complexity
+
 console.log(isValid("()"))
